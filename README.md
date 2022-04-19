@@ -1,8 +1,5 @@
 # Melanoma-Detection-Assignment
 
-# Project Name
-> Melanoma Detection.
-
 
 ## Table of Contents
 * [General Info](#general-information)
